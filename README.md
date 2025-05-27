@@ -1,3 +1,3 @@
 # Resume
-View the resume by clicking on the link 
+To View the resume ,click the link 
 https://charlotte-gideon.github.io/Resume/
